@@ -1,0 +1,9 @@
+{
+  "ethereumSepolia": {
+    "receiver": "0x60e05f815322Bf6B859c5aCFC8928cF78dFe5D67",
+    "swapper": "0x25c79d5b080535D9ADc34bC3a9f0Bb11Cb217522"
+  },
+  "avalancheFuji": {
+    "sender": "0x85ae632d257f3073649609d1912A99D0647b7FDc"
+  }
+}
